@@ -1,4 +1,23 @@
 /* Estilos generales */
+.redes-sociales {
+    text-align: center;
+}
+
+.boton-red-social {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.boton-red-social:hover {
+    background-color: #0056b3;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
