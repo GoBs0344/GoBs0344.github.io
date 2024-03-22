@@ -1,0 +1,22 @@
+pagina Web
+
+https://gobs0344.github.io/
+
+Objetivo:
+Elaborar una página Web personal que contenga tu información general así como los links 
+necesarios para descargar tu CV y tu llave pública.
+
+Instrucciones:
+Elaborar una página Web personal que incluya 
+1.- Pantalla de presentación: Es lo primero que se verá al visitar la página. En ella debe verse el
+nombre completo, fotografía y las secciones de: 
+    * Formación Académica
+    * Correo electrónico 
+    * Botones para tus redes sociales
+    * Hobbies (incluir al menos 3 fotografías y/o vídeos
+    * Acerca de Criptografía (la biografía de algún criptógraf@, la historia de algún algoritmo, algún 
+    evento importante)
+2.- Elaborar tu CV y guardarlo en formato PDF 
+    * Se debe incluir una link para poder descargar el pdf del CV
+3.- Poner un link que diga Mi llave Pública 
+    * La llave Pública se generará en la práctica de RSA próximamente (por ahora solo debe estar el link
