@@ -1,32 +1,56 @@
 /* Estilos generales */
-.redes-sociales {
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('resouce/header.jpg');
+    background-size: cover;
+    color: white;
+    padding: 50px;
     text-align: center;
+}
+
+main {
+    background-image: url('resouce/main.gif');
+    background-size: cover;
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
+
+.redes-sociales {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
 
 .boton-red-social {
     display: inline-block;
-    margin: 10px;
     padding: 10px 20px;
+    margin: 0 10px;
     background-color: #007bff;
-    color: #fff;
+    color: white;
     text-decoration: none;
     border-radius: 5px;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s ease;
 }
 
 .boton-red-social:hover {
     background-color: #0056b3;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+/* Estilos específicos */
+h1 {
+    margin-bottom: 10px;
 }
 
-header {
-    text-align: center;
-    padding: 20px 0;
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
 }
 
 nav ul {
@@ -42,25 +66,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-}
-
-main {
-    padding: 20px;
-}
-
-/* Estilos específicos */
-h1 {
-    margin-bottom: 10px;
-}
-
-nav {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-}
-
-nav ul li a {
-    color: #fff;
+    color: white;
 }
 
 section {
